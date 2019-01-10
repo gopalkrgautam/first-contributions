@@ -147,6 +147,7 @@
 - [Ritwik M]()
 - [Sid K]()
 - [ryandas]()
+- [Gopal Kumar](https://github.com/kumargopal)
 - [kunaalk]()
 - [Brooks](https://github.com/brooksclass)
 - [Patrick Coico](https://github.com/PCoico219)
